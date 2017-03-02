@@ -8,9 +8,9 @@ Clone this repository to your local folder and run movie.py using python 3.
 
 ## Screenshots
 
-![Frontpage](movie_trailer_website_front.jpg)
+![Frontpage](https://github.com/wahidyankf/udacity_fullstack_p01_movie_trailer_website/blob/master/movie_trailer_website_front.png)
 
-![Trailer](movie_trailer_website_show_trailer.jpg)
+![Trailer](https://github.com/wahidyankf/udacity_fullstack_p01_movie_trailer_website/blob/master/movie_trailer_website_show_trailer.png)
 
 ## Licence
 
